@@ -558,8 +558,17 @@ span {
 }
 .heading {
       text-align: center;
+      color: var(--main-color);
 }
-
+.service-info h4{
+      margin-top: 30px;
+}
+.education-info h4{
+      margin-top: 30px;
+}
+.education-info p{
+      margin-bottom: 20px;
+}
 
 
 
